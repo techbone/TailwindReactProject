@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Hero = () => {
   return (
     <div className="bg-white h-screen flex flex-col justify-center items-center bg-content-background bg-no-repeat bg-cover">
-      <h1 className="lg:text-7xl sm:text-5xl text-3xl font-black mb-14">
+      <h1 className="lg:text-7xl sm:text-5xl text-3xl font-extrabold mb-14 text-white">
         MUSA'S KITCHEN
       </h1>
       <Link

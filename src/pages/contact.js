@@ -5,11 +5,12 @@ import { Link } from "react-router-dom";
 const Contact = () => {
   return (
     <>
-      <div className="h-auto flex  items-center flex-col bg-whiteBackground ">
+      <div className="h-auto flex  items-center flex-col bg-whiteBackground  ">
         <h1 className="text-4xl uppercase font-mono pt-16">contact</h1>
         <div className="grid  grid-cols-2 gap-12 pt-12 pb-40">
-          <div className="shadow-lg h-80 w-gridBox  bg-green flex items-center pt-7 flex-col ">
+          <div className="shadow-lg h-80 w-gridBox  bg-green flex items-center pt-7 flex-col   ">
             <h1 className="text-4xl font-serif">I have a technical question</h1>
+
             <p className="pr-7 pt-5 text-xl">
               if you're already a customer,the fastest way to get
               <br />

@@ -10,8 +10,8 @@ const About = () => {
           Everything we do is a celebration of lunch & dinner - from how we
           source our flour
           <br />
-          and ingridents to serving up new ways for you to enjoy it. Since 1999,
-          we've been
+          and ingridents to serving up new ways for you to enjoy it. Since 19
+          99, we've been
           <br />
           committed to bringing you a lunch & dinner experience you won't find
           anywhere else.
